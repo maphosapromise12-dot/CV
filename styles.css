@@ -1,0 +1,12 @@
+.box{
+    border-style: double;
+    border-color: black;
+    border-width: 2px;
+}
+
+
+body{
+    background-image: url("IMG-20250525-WA0005.jpg");
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
